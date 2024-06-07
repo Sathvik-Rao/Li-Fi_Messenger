@@ -1,5 +1,8 @@
 # Li-Fi_Messenger
 
+Lifi Messenger is a user-friendly messaging application designed to revolutionize communication using light fidelity (Li-Fi) technology. This innovative platform offers high-speed, secure messaging by harnessing light signals for data transmission. With Lifi Messenger, users can exchange messages, images, and files with unparalleled speed and reliability. The intuitive interface ensures a seamless user experience, while robust encryption protocols safeguard user privacy. Lifi Messenger empowers users to communicate effortlessly in environments where traditional Wi-Fi or cellular networks may be limited or congested, making it ideal for crowded events, remote areas, or sensitive environments.
+
+
 Install -> https://github.com/Sathvik-Rao/Li-Fi_Messenger/archive/refs/heads/main.zip
 
 Demo -> https://youtu.be/ewg1pFw4G60
